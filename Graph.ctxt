@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Graph
+comment0.text=\r\n\ Graph.\r\n
+comment1.params=maxAnzahl_
+comment1.target=Graph(int)
+comment2.params=mitglied
+comment2.target=void\ knotenEinfuegen(Mitglied)
+comment2.text=\r\n\ Erzeugt\ einen\ neuen\ Knoten\ mit\ dem\ \u00FCbergebenen\ Inhalt\ \r\n\ und\ f\u00FCgt\ ihn\ in\ die\ Knotenliste\ ein\r\n
+comment3.params=mitglied
+comment3.target=int\ knotennummerGeben(Mitglied)
+comment3.text=\r\n\ Sucht\ nach\ einem\ Knoten\ mit\ dem\ Inhalt\ mitglied\ in\ der\ Knotenliste\r\n\ und\ gibt\ dessen\ Index\ zur\u00FCck\r\n
+comment4.params=
+comment4.target=void\ knotenlisteAusgeben()
+comment4.text=\r\n\ Gibt\ die\ Knotenliste\ auf\ der\ Konsole\ aus\r\n
+comment5.params=
+comment5.target=void\ adjazenzMatrixAusgeben()
+comment5.text=\r\n\ Gibt\ die\ Adjazenzmatrix\ auf\ der\ Konsole\ aus.\r\n
+comment6.params=bez1\ bez2
+comment6.target=void\ kanteEinfuegen(Mitglied,\ Mitglied)
+comment6.text=\r\n\ F\u00FCgt\ eine\ Kante\ zwischen\ den\ Knoten\ mit\ den\ Inhalten\ bez1\ und\ bez2\ ein.\r\n
+comment7.params=m
+comment7.target=int\ methode1(Mitglied)
+comment7.text=\r\n\ methode1\r\n
+comment8.params=m
+comment8.target=void\ freundeVonFreunden(Mitglied)
+numComments=9

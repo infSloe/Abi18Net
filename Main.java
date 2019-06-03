@@ -59,5 +59,6 @@ public class Main
         // Aufgabe e)
         System.out.println("Freunde von Freunden");
         g.freundeVonFreunden(a);
+       // Ende
     }
 }
